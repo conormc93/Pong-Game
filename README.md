@@ -6,7 +6,7 @@
 This repository was created as part of a project for the module Graphics Programming
 
 The project outcomes were to create a a game or visualisation using HTML5 canvas.
-The project description can be found ![here](/Graphics_Project/images/project_requirements.png?raw=true "Outcomes")
+The project description can be found ![ScreenShot](https://raw.github.com/{conormc93}/{Pong-Game}/{master}/{Pong-Game/images/project_requirements.PNG})
 
 #### How to run the program
 
