@@ -1,5 +1,5 @@
 # Graphics Programming
-# Project Remake of Pong Game
+# Remake of Pong Game
 
 #### Author: Conor McGrath
 
@@ -9,7 +9,7 @@ The project outcomes were to create a a game or visualisation using HTML5 canvas
 The project description is as follows: 
 ![project_requirements](https://user-images.githubusercontent.com/22448116/33789989-96994c80-dc74-11e7-9744-f5085c1e43fc.PNG)
 
-#### How to run the program
+### How to run the program
 
 To clone the repository to your local machine, in your command prompt enter
 
