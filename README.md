@@ -11,7 +11,8 @@ The project description is as follows:
 
 #### How to run the program
 
-To clone the repository to your local machine, in your command prompt enter 
+To clone the repository to your local machine, in your command prompt enter
+
 ```
 git clone https://github.com/conormc93/Pong-Game.git
 ```
@@ -29,10 +30,10 @@ Run the Graphics_Project.html on your internet broswer
 #### Implementation
 
 
-### Features
+#### Features
 
 
-### References
+#### References
 
 
 
