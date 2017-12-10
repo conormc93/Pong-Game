@@ -22,17 +22,18 @@ Run the Graphics_Project.html on your internet broswer
 
 ### The Project Process
 #### Research
-
+I first broke down the project into smaller sections. I wanted to be able to set up my variables and my canvas. I looked up various tutorials on how other people had implemented the collisions with the paddle and the walls and also looked back on what exercises I had done to refresh my memory.
 
 #### Design
-
+For the design process I wanted to make the code as object oriented as possible so I looked back on the exercises we had done in which we had to change the code we had to a style that was more OO. I learned about prototyping in javascript which is just anothe rform of inheritance so I used this throughout my code.
 
 #### Implementation
-
+I first wanted to have the program render the two paddles and have the user's paddle move using keydown functions. My next task was to implement the physics of the rendered ball and add AI that would track the movement of the ball. 
 
 #### References
-https://www.w3schools.com/
-https://stackoverflow.com/
-https://code.tutsplus.com/tutorials/learn-createjs-by-building-an-html5-pong-game--active-11845
++ https://www.w3schools.com/
++ https://stackoverflow.com/
++ https://code.tutsplus.com/tutorials/learn-createjs-by-building-an-html5-pong-game--active-11845
++ https://www.youtube.com/
 
 
