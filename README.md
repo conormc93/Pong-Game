@@ -30,10 +30,9 @@ Run the Graphics_Project.html on your internet broswer
 #### Implementation
 
 
-#### Features
-
-
 #### References
-
+https://www.w3schools.com/
+https://stackoverflow.com/
+https://code.tutsplus.com/tutorials/learn-createjs-by-building-an-html5-pong-game--active-11845
 
 
